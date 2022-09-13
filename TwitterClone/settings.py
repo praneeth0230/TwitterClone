@@ -92,10 +92,10 @@ WSGI_APPLICATION = 'TwitterClone.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'ddtqusqel5r0da',                      
-        'USER': 'tiktzynqppekem',
-        'PASSWORD': 'e4024d1f52a11b6c103703f79e23a8f2e758c56b836d1a583dc5fe46771eaaf7',
-        'HOST': 'ec2-34-235-198-25.compute-1.amazonaws.com',
+        'NAME': 'd4jqidd2eq7e90',                      
+        'USER': 'wnvblgblnnexje',
+        'PASSWORD': '9606b233ebbf33e94aec1c499482e3c81d5d321656ba43e70ac3ce5a71bf525f',
+        'HOST': 'ec2-107-23-76-12.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
@@ -147,7 +147,7 @@ STATICFILES_DIRS = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 cloudinary.config(
-    cloud_name="dcb7s1d02",
-    api_key="674842767227648",
-    api_secret="g1bx8SbWPy7J0iMPm19G-861sEM",
+    cloud_name="dobqyaixm",
+    api_key="963182735367988",
+    api_secret="a4xWUwCgD9-msPNlCW_bWpMfxvQ",
 )
